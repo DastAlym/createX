@@ -1,0 +1,18 @@
+@import "./normalize/normalize.scss";
+@import "./components/button.scss";
+@import "components/profC";
+
+.bg {
+  background: $mainBg;
+}
+
+// Header
+@import "./components/header.scss";
+
+//  CreateX
+@import './components/createx.scss';
+
+
+//  Courses
+@import "./components/courses.scss";
+
